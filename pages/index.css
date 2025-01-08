@@ -115,6 +115,8 @@
   gap: 100px;
   list-style-type: none;
   margin: 0;
+  width: 560px;
+  height: 315px;
 }
 
 .recipes__fonts {
