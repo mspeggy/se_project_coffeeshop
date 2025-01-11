@@ -6,6 +6,7 @@
   background-image: url(../images/background_header.svg);
   background-size: cover;
   position: relative;
+  background-position: center;
 }
 
 .header__image {
