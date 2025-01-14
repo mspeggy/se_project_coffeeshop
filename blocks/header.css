@@ -30,6 +30,8 @@
 .header__span-accent {
   color: #3f96f3;
   display: block;
+  font-weight: normal;
+  font-family: "Noto Serif", "Times New Roman", serif;
 }
 
 .header__description {
@@ -53,4 +55,6 @@
 
 .header__paragrah {
   margin: 0;
+  font-weight: 500;
+  color: #6f6f6f;
 }
